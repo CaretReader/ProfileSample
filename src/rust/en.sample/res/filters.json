@@ -4,36 +4,25 @@
 	},
 	{
 		"type": "select",
-		"name": "題材",
+		"name": "subject",
 		"options": [
-			"全部",
-			"熱血",
-			"戀愛",
-			"校園",
-			"冒險",
-			"科幻",
-			"生活",
-			"懸疑",
-			"魔法",
-			"運動"
+			"All"
 		]
 	},
 	{
 		"type": "select",
-		"name": "狀態",
+		"name": "Status",
 		"options": [
-			"全部",
-			"連載中",
-			"完結"
+			"All"
 		]
 	},
 	{
 		"type": "sort",
-		"name": "排序",
+		"name": "Sort",
 		"canAscend": false,
 		"options": [
-			"人氣",
-			"更新時間"
+			"hot",
+			"time"
 		],
 		"default": {
 			"index": 0,
