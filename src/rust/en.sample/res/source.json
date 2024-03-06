@@ -1,0 +1,9 @@
+{
+	"info": {
+		"id": "en.sample",
+		"lang": "en",
+		"name": "Sample",
+		"version": 1,
+		"nsfw": 1
+	}
+}
