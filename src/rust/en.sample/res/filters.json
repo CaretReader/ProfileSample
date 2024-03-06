@@ -21,8 +21,7 @@
 		"name": "Sort",
 		"canAscend": false,
 		"options": [
-			"hot",
-			"time"
+			"hot"
 		],
 		"default": {
 			"index": 0,
