@@ -1,0 +1,11 @@
+[
+  {
+    "id": "en.sample",
+    "name": "Sample",
+    "file": "en.sample-v1.aix",
+    "icon": "en.sample-v1.png",
+    "lang": "en",
+    "version": 1,
+    "nsfw": 1
+  }
+]
