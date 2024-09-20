@@ -1,0 +1,11 @@
+[
+  {
+    "id": "en.profilesample",
+    "name": "Profile Sample",
+    "file": "en.profilesample-v1.aix",
+    "icon": "en.profilesample-v1.png",
+    "lang": "en",
+    "version": 1,
+    "nsfw": 0
+  }
+]
