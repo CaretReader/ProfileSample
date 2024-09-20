@@ -1,31 +1,5 @@
 [
-	{
-		"type": "title"
-	},
-	{
-		"type": "select",
-		"name": "subject",
-		"options": [
-			"All"
-		]
-	},
-	{
-		"type": "select",
-		"name": "Status",
-		"options": [
-			"All"
-		]
-	},
-	{
-		"type": "sort",
-		"name": "Sort",
-		"canAscend": false,
-		"options": [
-			"hot"
-		],
-		"default": {
-			"index": 0,
-			"ascending": false
-		}
-	}
+  {
+    "type": "title"
+  }
 ]

@@ -1,6 +1,6 @@
 [package]
-name = "sample"
-version = "0.0.1"
+name = "en_profile_sample"
+version = "0.1.0"
 edition = "2021"
 
 [lib]
@@ -16,4 +16,4 @@ strip = true
 lto = true
 
 [dependencies]
-aidoku = { git = "https://github.com/Aidoku/aidoku-rs/", features=["helpers"] }
+aidoku = { git = "https://github.com/Aidoku/aidoku-rs", features = ["helpers"] }

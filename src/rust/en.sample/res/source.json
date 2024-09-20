@@ -1,9 +1,10 @@
 {
 	"info": {
-		"id": "en.sample",
+		"id": "en.profilesample",
 		"lang": "en",
-		"name": "Sample",
+		"name": "ProfileSample",
 		"version": 1,
-		"nsfw": 1
+		"url": "https://github.com/CaretReader/CaretApp",
+		"nsfw": 0
 	}
 }
